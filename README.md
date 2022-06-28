@@ -1,2 +1,2 @@
 # training
-hello
+hello, I am here!:
